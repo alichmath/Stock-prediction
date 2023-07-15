@@ -1,4 +1,4 @@
-# Stock Prediction
+# Stock Price Prediction
 In this repository, we will build a model for predicting stock price of AAPL using a deep neural network with 4 layers. We will use two LSTM layers with 128 and 64 nodes followed by 2 dense layers of 25 and 1 nodes. 
 
 ### Training and Test Set
